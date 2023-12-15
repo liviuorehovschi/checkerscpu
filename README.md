@@ -1,6 +1,6 @@
 # Checkers Game Application Setup Guide
 
-This document provides the instructions for setting up the environment for the Todo List application, which is split into two main parts: the backend (Python) and the frontend (React).
+This document provides the instructions for setting up the environment for the checkers game (Python).
 
 ## Prerequisites
 
